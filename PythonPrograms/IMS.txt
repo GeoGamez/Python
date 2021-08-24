@@ -1,0 +1,13 @@
+sfp
+small frying pan
+0
+11.95
+lk
+large kettle
+7
+27.5
+sk
+small kettle
+20
+14.95
+ENDENDEND
